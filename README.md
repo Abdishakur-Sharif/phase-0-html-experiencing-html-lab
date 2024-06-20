@@ -234,7 +234,7 @@ with an appropriate title inside.
 Here's the full example code:
 
 ```html
-<h1>My Plant List</h1>
+<h1></h1>
 <p>Some of my favorite plants!</p>
 <ul>
   <li>"Monstera deliciosa"</li>
